@@ -58,15 +58,15 @@ width: 100%;
     .expericece-area{
         display: flex;
         padding: 30px;
-        margin-bottom: 200px;
+        margin-bottom: 50px;
         background-image: url(image/exp-bg.png);
         background-repeat: no-repeat;
         background-position: left;
        
     }
     .experience{
-        margin-top: 80px;
-        margin-left: 7%;
+        padding: 20px;
+        text-align: center;
     }
     .single-experience{
         box-shadow: 10px 10px 5px gray;
@@ -94,4 +94,21 @@ width: 100%;
       text-align: center; 
       color: rgb(19, 20, 20); 
       
+     }
+     .latest-work-area{
+         display: flex;
+         margin-bottom: 20%;
+         margin-left: 5%;
+     }
+     .img-gallry{
+         height: 350px;
+         width: 250px;
+         padding: 30px;
+     }
+     .latest-work{
+         text-align: center;
+         padding: 20px;
+     }
+     .dream-para{
+         margin-right: 130px;
      }
